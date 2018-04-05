@@ -1,0 +1,2 @@
+# tragamonedas
+proyecto de tragamonedas
